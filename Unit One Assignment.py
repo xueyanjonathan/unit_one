@@ -1,3 +1,7 @@
+# Jonathan Lin
+# 9/13/2018
+# Draw a face using functions and loops in Python
+
 import turtle
 
 turtle.speed(100)
